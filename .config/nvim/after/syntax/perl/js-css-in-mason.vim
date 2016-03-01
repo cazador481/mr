@@ -1,1 +1,0 @@
-/home/eash/.config/nvim/bundle/vim-perl/contrib/js-css-in-mason.vim
