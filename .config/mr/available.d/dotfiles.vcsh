@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotfiles.git]
-checkout = vcsh clone http://git@github.com:cazador481/dotfiles.git dotfiles
+checkout = vcsh clone 'ssh://git@github.com/cazador481/dotfiles.git' 'dotfiles'
