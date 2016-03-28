@@ -6,3 +6,6 @@ include = cat ~/.config/mr/config.d/*
 
 [.zgen_repo]
 checkout = git clone 'https://github.com/tarjoilija/zgen' '.zgen_repo'
+
+[.zgen]
+checkout = git clone 'ssh://git@github.com/tarjoilija/zgen.git' '.zgen'
