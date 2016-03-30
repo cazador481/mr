@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/neovim_dot_files.git]
-checkout = vcsh clone ssh://git@github.com:cazador481/neovim_dot_files.git neovim_dot_files 
+checkout = vcsh clone 'ssh://git@github.com/cazador481/neovim_dot_files.git' 'neovim_dot_files'

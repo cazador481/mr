@@ -9,3 +9,6 @@ checkout = git clone 'https://github.com/Shougo/neobundle.vim.git' 'neobundle'
 
 [.config/git/hooks/bin/git-passport]
 checkout = git clone 'git://github.com/frace/git-passport.git' 'git-passport'
+
+[.zgen]
+checkout = git clone 'ssh://git@github.com/tarjoilija/zgen.git' '.zgen'
